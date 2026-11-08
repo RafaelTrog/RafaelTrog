@@ -1,8 +1,8 @@
 ### Hi, I'm Rafael 👋
 
-Front-end Lead based in Curitiba, Brazil, with 6+ years building web products in React, Next.js and TypeScript.
+Front-end Lead based in Curitiba, Brazil, with 8+ years building web products in React, Next.js and TypeScript.
 
-Currently leading front-end at a B2B credit fintech, where I also drive many of the UI/UX decisions before they reach development.
+Currently leading front-end at a B2B credit and risk analysis platform, where I also drive many of the UI/UX decisions before they reach development.
 
 **What I've worked on**
 - High-traffic checkout system for a large EdTech, handling launch peaks of thousands of concurrent users
